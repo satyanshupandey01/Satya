@@ -1,3 +1,5 @@
+// WAP to implement queue using array. Special Condition :- Priorities "10" for every dequeue operation.
+
 #include <stdio.h>
 
 #define MAX 5
